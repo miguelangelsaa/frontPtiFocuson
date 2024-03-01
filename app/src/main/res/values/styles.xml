@@ -25,6 +25,37 @@
         <item name="android:fontFamily">@font/FontPrinc</item>
         <item name="android:textSize">20dp</item>
     </style>
+    <!--ESTES SÃO OS ESTILOS DO MIGUEL-->
+    <style name="ContainerComponentm">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">220dp</item>
+    <item name="android:background">@drawable/container_components</item>
+    <item name="android:layout_margin">20dp</item>
+    </style>
 
+    <style name="Edit_Textm">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/edit_text</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:layout_marginLeft">40dp</item>
+        <item name="android:layout_marginRight">40dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+
+    </style>
+    <style name="Buttton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">40dp</item>
+        <item name="android:layout_marginRight">40dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:backgroundTint"></item>
+        <item name="android:padding">20dp</item>
+        <item name="android:background">@drawable/buttom</item>
+    </style>
+    <!-- esta é  a caixa do transparente -->
+    <style name="EditTextTransparent">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
 
 </resources>

@@ -5,4 +5,6 @@
     <string name="cadastrar">Cadastrar</string>
     <string name="focuson">FocusOn</string>
     <string name="senha">Senha</string>
+    <string name="text_caixa">Receber novidades no e-mail</string>
+    <string name="text_caixa2">Lí e aceito a politica de privacidade e os termos de condições de uso.</string>
 </resources>

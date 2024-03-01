@@ -6,5 +6,6 @@
         android:endColor="@color/blueb"
 
         android:angle="90"/>
+    <solid android:color="#030E4F" />
 
 </shape>

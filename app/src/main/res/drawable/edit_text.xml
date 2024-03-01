@@ -3,4 +3,8 @@
     <solid android:color="@color/white"/>
     <corners android:radius="20dp"/>
     <stroke android:color="@color/blueb" android:width="1dp"/>
+    <!--aqui esta a cor de fundo da caixa de cadastro-->
+
+    <!--aqui estão as linhas-->
+    <stroke android:color="@color/gray" android:width="2dp"/>
 </shape>
