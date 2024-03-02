@@ -81,7 +81,7 @@
         android:buttonTint="@color/orange"
         />
 
-    <!--caixa de chekin-->
+    <!--caixa de chekin2-->
     <CheckBox
         android:id="@+id/minha_caixa_de_selecao2"
         android:layout_width="wrap_content"
